@@ -9,3 +9,4 @@ My Projects Are:
 AlpHax. A Hacked Cient For Minecraft
 Seagull. A Reliable and Fast Package Manager[PRIVATE]
 CWC OS. My Own Linux Distro which is designed to work with Seagull
+FreeGo. A Fork OF Golang which allows unsafe typing and a c++ like Syntax
