@@ -6,6 +6,7 @@ The stuff i managed to learn somehow:
 - Rust(Still learning)
 - Java(Minecraft)
 - Python
+- C#(First Language I learned)
 
 Projects(Serious ones):
 - Lambda Shade (Hacky stuff for Minecraft)
