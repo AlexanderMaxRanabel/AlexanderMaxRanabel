@@ -1,3 +1,2 @@
 # Voyage
-![Logo](https://i.hizliresim.com/ke5e2ha.jpeg)
-
+![Logo](https://i.hizliresim.com/om8onwz.jpeg){width=50%}
