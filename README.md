@@ -8,7 +8,7 @@ The stuff i managed to learn somehow / tech stack:
 - Python
 - C#(First Language I learned)
 - Deno
-- JavaScript(Too easy to learn TypeScript)
+- JavaScript(Too lazy to learn TypeScript)
 - NodeJS
 - Yew(Learning alongside Rust)
 - Carbon
@@ -24,3 +24,5 @@ Things I Like:
 Nice Projects I like:
 - https://github.com/carbon-language/carbon-lang
 - Or Just Look at the project in my stars https://github.com/AlexanderMaxRanabel?tab=stars
+
+QuteBrowser is not that good
