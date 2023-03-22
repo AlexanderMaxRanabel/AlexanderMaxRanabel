@@ -26,3 +26,4 @@ Nice Projects I like:
 - Or Just Look at the project in my stars https://github.com/AlexanderMaxRanabel?tab=stars
 
 QuteBrowser is not that good
+Emacs > Vim. Vim users has an unnecesary supeority complex
