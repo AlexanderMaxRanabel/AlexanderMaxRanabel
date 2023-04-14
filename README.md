@@ -16,7 +16,8 @@ The stuff i managed to learn somehow / tech stack:
 Projects(Serious ones):
 - Lambda Shade (Hacky stuff for Minecraft)
 - Elgo (A discord bot written in pyhton)
-
+- FocusCenter(A tool which has built in features for focusing written in rust)
+- 
 Things I Like:
 - Programming and Computers
 - Degenaracy(I am a Furry >w<)
