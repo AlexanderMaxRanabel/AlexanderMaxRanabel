@@ -29,3 +29,4 @@ QuteBrowser is not that good
 Emacs > Vim. Vim users has an unnecesary supeority complex
 Nix > Ay Other package manager
 NIxOS is the best distro
+I USE NixOS FYI
