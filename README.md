@@ -25,8 +25,9 @@ Nice Projects I like:
 - https://github.com/carbon-language/carbon-lang
 - Or Just Look at the project in my stars https://github.com/AlexanderMaxRanabel?tab=stars
 
-QuteBrowser is not that good
-Emacs > Vim. Vim users has an unnecesary supeority complex
-Nix > Ay Other package manager
-NIxOS is the best distro
-I USE NixOS FYI
+Random things go br:
+- QuteBrowser is not that good
+- Emacs > Vim. Vim users has an unnecesary supeority complex
+- Nix > Ay Other package manager
+- NIxOS is the best distro
+- I USE NixOS FYI
