@@ -18,6 +18,7 @@ Projects(Serious ones):
 - Elgo (A discord bot written in pyhton)
 - FocusCenter(A tool which has built in features for focusing written in rust)
 - VynxOS(A linux distro based on NixOS)
+
 Things I Like:
 - Programming and Computers
 - Degenaracy(I am a Furry >w<)
