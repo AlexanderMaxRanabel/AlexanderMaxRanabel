@@ -34,3 +34,7 @@ Random things go br:
 - NIxOS is the best distro
 - I USE NixOS FYI
 - NSA Good Luck! ;)
+- Also luck to you
+- Paranoia™
+- Stallman Was Right All Along. We just ignored him and now in this day we are paying the consuquence of our ignorance
+- Dont see my face please
