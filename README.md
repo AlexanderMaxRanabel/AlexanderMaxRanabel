@@ -33,3 +33,4 @@ Random things go br:
 - Nix > Ay Other package manager
 - NIxOS is the best distro
 - I USE NixOS FYI
+- NSA Good Luck! ;)
