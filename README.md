@@ -15,13 +15,12 @@ The stuff i managed to learn somehow / tech stack:
 
 Projects(Serious ones):
 - Lambda Shade (Hacky stuff for Minecraft)
-- Elgo (A discord bot written in pyhton)
+- Elgo (A discord bot written in python)
 - FocusCenter(A tool which has built in features for focusing written in rust)
 - VynxOS(A linux distro based on NixOS)
 
 Things I Like:
 - Programming and Computers
-- Degenaracy(I am a Furry >w<)
 
 Nice Projects I like:
 - https://github.com/carbon-language/carbon-lang
