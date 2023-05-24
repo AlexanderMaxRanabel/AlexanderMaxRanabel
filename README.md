@@ -17,6 +17,7 @@ Projects(Serious ones):
 - Lambda Shade (Hacky stuff for Minecraft)
 - Elgo (A discord bot written in python)
 - FocusCenter(A tool which has built in features for focusing written in rust)
+- Vix (A Wrapper for Nix)
 - VynxOS(A linux distro based on NixOS)
 
 Things I Like:
