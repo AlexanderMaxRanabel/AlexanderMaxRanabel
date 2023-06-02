@@ -26,15 +26,3 @@ Things I Like:
 Nice Projects I like:
 - https://github.com/carbon-language/carbon-lang
 - Or Just Look at the project in my stars https://github.com/AlexanderMaxRanabel?tab=stars
-
-Random things go br:
-- QuteBrowser is not that good
-- Emacs > Vim. Vim users has an unnecesary supeority complex
-- Nix > Ay Other package manager
-- NIxOS is the best distro
-- I USE NixOS FYI
-- NSA Good Luck! ;)
-- Also luck to you
-- Paranoia™
-- Stallman Was Right All Along. We just ignored him and now in this day we are paying the consuquence of our ignorance
-- Dont see my face please
